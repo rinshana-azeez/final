@@ -1,2 +1,2 @@
 # final
-https://github.com/rinshana-azeez/final.git
+https://rinshana-azeez.github.io/final/
